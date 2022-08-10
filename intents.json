@@ -1,0 +1,25 @@
+{"intents":
+[
+  {"tag": "greeting",
+   "patterns": ["Hey", "Hola", "Buenas"],
+    "responses": [""]
+  },
+  {"tag": "create_note",
+   "patterns": ["Nueva nota", "Create a note", "Write a note"],
+    "responses": [""]
+  },
+  {"tag": "add_todos",
+   "patterns": ["Agrega algo a mi lista", "Add a new to do", "new activity to do"],
+    "responses": [""]
+  },
+  {"tag": "exit",
+   "patterns": ["Bye", "Adios ", "Nos vemos"],
+    "responses": [""]
+  },
+  {"tag": "social_media",
+   "patterns": ["Abre","Abrir","Open", "Instagram", "Google","Facebook", "open whatsapp", "reddit", "4chan"],
+    "responses": [""]
+  }
+
+]
+}
