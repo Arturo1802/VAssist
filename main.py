@@ -101,7 +101,7 @@ def socialMed():
 
 
 def _quit():
-    speaker.say("te huelo luego socio")
+    speaker.say("te veo luego socio")
     speaker.runAndWait()
     sys.exit(0)
 
